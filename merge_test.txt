@@ -2,3 +2,5 @@ fred
 jane
 peter
 spike
+wayne
+ricky
