@@ -15,7 +15,7 @@
       "empty":null,
       "object": {"a": "peter", "b": 32},
       "array": [11, 12, 13]
-    }
+    },
     {
       "id": 3,
       "title": "adieu",
