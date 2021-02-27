@@ -4,6 +4,7 @@
       "id": 1,
       "title": "hello",
       "count": 35,
+      "boolean": true,
       "empty":null,
       "object": {"a": "susan", "b": 3},
       "array": [1, 2, 3]
@@ -12,6 +13,7 @@
       "id": 2,
       "title": "goodbye",
       "count": 42,
+      "boolean": false,
       "empty":null,
       "object": {"a": "peter", "b": 32},
       "array": [11, 12, 13]
@@ -20,6 +22,7 @@
       "id": 3,
       "title": "adieu",
       "count": 22,
+      "boolean": true,
       "empty":null,
       "object": {"a": "indy", "b": 90},
       "array": [111, 112, 113]
