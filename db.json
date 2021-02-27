@@ -7,15 +7,7 @@
       "empty":null,
       "object": {"a": "susan", "b": 3},
       "array": [1, 2, 3]
-    }
-  ],
-  "profile": {
-    "name": "typicode",
-    "level": 5
-  }
-},
-{
-  "posts": [
+    },
     {
       "id": 2,
       "title": "goodbye",
@@ -24,9 +16,13 @@
       "object": {"a": "peter", "b": 32},
       "array": [11, 12, 13]
     }
-  ],
-  "profile": {
-    "name": "typicode",
-    "level": 7
-  } 
-}
+    {
+      "id": 3,
+      "title": "adieu",
+      "count": 22,
+      "empty":null,
+      "object": {"a": "indy", "b": 90},
+      "array": [111, 112, 113]
+    }
+  ]
+ }
