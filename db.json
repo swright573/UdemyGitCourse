@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "count": 35,
+      "empty":null,
+      "object": {"a": "susan", "b": 3},
+      "array": [1, 2, 3]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
