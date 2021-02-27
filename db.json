@@ -10,6 +10,22 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "level": 5
   }
+  "posts": [
+    {
+      "id": 2,
+      "title": "goodbye",
+      "count": 42,
+      "empty":null,
+      "object": {"a": "peter", "b": 32},
+      "array": [11, 12, 13]
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "level": 7
+  } 
 }
+
